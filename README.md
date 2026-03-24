@@ -45,7 +45,10 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 
 ---
 
-### 📊 Academic & Coding Stats
+### 📊 Weekly Coding Activity
+---
+
+### 📈 Academic & Coding Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RajDesai87&show_icons=true&theme=nord&rank_icon=github" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDesai87&layout=compact&theme=nord" />
@@ -64,9 +67,7 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RajDesai87&theme=tokyonight&margin-w=15&margin-h=15" alt="RajDesai87 Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=RajDesai87&theme=tokyonight&margin-w=15&margin-h=15" alt="RajDesai87 Trophies" />
 </p>
 
 ---
