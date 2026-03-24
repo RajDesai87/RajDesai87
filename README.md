@@ -47,6 +47,11 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 
 ### 📊 Weekly Coding Activity
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 ---
 
