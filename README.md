@@ -65,7 +65,7 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RajDesai87&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="RajDesai87 Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RajDesai87&theme=tokyonight&margin-w=15&margin-h=15" alt="RajDesai87 Trophies" />
   </a>
 </p>
 
