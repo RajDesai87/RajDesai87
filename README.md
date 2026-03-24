@@ -56,6 +56,9 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 
 ---
 
+### ⚡ Recent Activity
+---
+
 ### 📂 Featured Projects
 | Project | Tech Stack | Key Highlights |
 | :--- | :--- | :--- |
@@ -66,7 +69,9 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 ---
 
 ### 🤝 Let's Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raj-desai-017979233/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rajgpdesai2007@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/raj-desai-017979233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rajgpdesai2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <p align="right">(Profile updated: 2026)</p>
