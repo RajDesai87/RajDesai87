@@ -62,6 +62,15 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="[YourUsername] Trophies" />
+  </a>
+</p>
+
+---
+
 ### 🤝 Let's Connect
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raj-desai-017979233/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rajgpdesai2007@gmail.com)
