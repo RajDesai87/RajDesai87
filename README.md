@@ -63,14 +63,6 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 | **💬 Discussion-Den** | Flask, MySQL, Bootstrap | **Full-Stack Social Platform** with a focus on modular architecture, user authentication, and real-time discussion threading. |
 | **☕ RMS-CLI** | Core Java (OOP) | **Console-Based Management System** designed to simulate restaurant workflows using pure Java and Object-Oriented principles. |
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajDesai87&theme=tokyonight&margin-w=15&margin-h=15" alt="RajDesai87 Trophies" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raj-desai-017979233/)
