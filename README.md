@@ -65,7 +65,7 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajDesai87&theme=dark&background=000000&border=30363d&currStreakNum=FFD700" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajDesai87&theme=dark&background=000000&border=30363d&currStreakNum=FFD700" />
 </p>
 
 ---
