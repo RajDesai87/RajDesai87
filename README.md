@@ -48,6 +48,28 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 
 ---
 
+### 📂 Featured Projects
+| Project | Tech Stack | Key Highlights |
+| :--- | :--- | :--- |
+| **🍔 Swadkart** | Java, MySQL, JDBC | **Advanced Food Ordering System** featuring a modular DAO/Service architecture, OTP-based authentication, and unique Sound/TTS feedback. |
+| **💬 Discussion-Den** | Flask, MySQL, Bootstrap | **Full-Stack Social Platform** with a focus on modular architecture, user authentication, and real-time discussion threading. |
+| **☕ RMS-CLI** | Core Java (OOP) | **Console-Based Management System** designed to simulate restaurant workflows using pure Java and Object-Oriented principles. |
+
+---
+
+### 📈 Academic & Coding Stats
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RajDesai87&show_icons=true&theme=dark&rank_icon=github&bg_color=000000&border_color=30363d" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDesai87&layout=compact&theme=dark&bg_color=000000&border_color=30363d" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajDesai87&theme=dark&background=000000&border=30363d&currStreakNum=FFD700" />
+</p>
+
+---
+
 ### 📊 Weekly Coding Activity
 <!--START_SECTION:wakatime-->
 
@@ -62,23 +84,6 @@ Text         3 mins                ▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:wakatime-->
----
-
-### 📈 Academic & Coding Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RajDesai87&show_icons=true&theme=nord&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDesai87&layout=compact&theme=nord" />
-</p>
-
----
-
-### 📂 Featured Projects
-| Project | Tech Stack | Key Highlights |
-| :--- | :--- | :--- |
-| **🍔 Swadkart** | Java, MySQL, JDBC | **Advanced Food Ordering System** featuring a modular DAO/Service architecture, OTP-based authentication, and unique Sound/TTS feedback. |
-| **💬 Discussion-Den** | Flask, MySQL, Bootstrap | **Full-Stack Social Platform** with a focus on modular architecture, user authentication, and real-time discussion threading. |
-| **☕ RMS-CLI** | Core Java (OOP) | **Console-Based Management System** designed to simulate restaurant workflows using pure Java and Object-Oriented principles. |
-
 ---
 
 ### 🤝 Let's Connect
