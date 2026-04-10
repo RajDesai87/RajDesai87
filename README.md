@@ -83,7 +83,9 @@ No activity tracked
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=RajDesai87&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+   ![Profile Views](https://komarev.com/ghpvc/?username=RajDesai87&label=Profile%20Views&color=0e75b6&style=flat)
+</p>
 
 ---
 ### 🤝 Let's Connect
