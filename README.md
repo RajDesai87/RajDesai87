@@ -57,7 +57,6 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 
 ### 📈 Academic & Coding Stats
 <p align="center">
-
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RajDesai87&show_icons=true&theme=dark&rank_icon=github&bg_color=000000&border_color=30363d" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDesai87&layout=compact&theme=dark&bg_color=000000&border_color=30363d" />
 </p>
