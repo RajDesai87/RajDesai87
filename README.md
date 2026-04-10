@@ -84,7 +84,7 @@ No activity tracked
 ---
 
 <p align="center">
-   ![Profile Views](https://komarev.com/ghpvc/?username=RajDesai87&label=Profile%20Views&color=0e75b6&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=RajDesai87&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 ---
