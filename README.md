@@ -80,8 +80,12 @@ No activity tracked
 ```
 
 <!--END_SECTION:wakatime-->
+
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=RajDesai87&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
 ### 🤝 Let's Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/raj-desai132"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
