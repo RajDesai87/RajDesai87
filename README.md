@@ -13,7 +13,6 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 - 🎓 **Education:** Currently studying Computer Engineering (Focus: Digital Logic & Statistics).
 - 🛠️ **Current Goal:** Transitioning my backend expertise from Flask to **Node.js & Express**.
 - 🧪 **Learning Lab:** Experimenting with **MongoDB** for flexible data modeling in my latest projects.
-- 📬 **Ask me about:** Python OOP, Method Resolution Order (MRO), or why I chose Bootstrap for my UI!
 
 ---
 ### 🛠️ My Toolbox
