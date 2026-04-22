@@ -70,19 +70,19 @@ I am a dedicated student developer focused on mastering the art of full-stack we
 <!--START_SECTION:wakatime-->
 
 ```txt
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-Total Time: 4 hrs 30 mins
+Total Time: 5 hrs 31 mins
 
-JavaScript   2 hrs 9 mins          ████████████░░░░░░░░░░░░░   47.81 %
-Python       1 hr 15 mins          ███████░░░░░░░░░░░░░░░░░░   27.91 %
-Text         20 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Markdown     19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-HTML         15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Bash         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-CSS          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python       2 hrs 15 mins         ██████████▒░░░░░░░░░░░░░░   40.88 %
+JavaScript   2 hrs 10 mins         █████████▓░░░░░░░░░░░░░░░   39.31 %
+Text         20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Markdown     19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+HTML         15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Bash         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+CSS          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:wakatime-->
